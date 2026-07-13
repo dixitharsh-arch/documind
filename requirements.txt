@@ -87,3 +87,5 @@ tqdm
 # Optional Monitoring
 # ==========================
 langsmith
+
+pysqlite3-binary
