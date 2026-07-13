@@ -1,16 +1,89 @@
-streamlit==1.49.1
-python-dotenv==1.1.1
+# ==========================
+# LangChain
+# ==========================
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-mistralai
+langchain-text-splitters
+langchain-chroma
 
-langchain==0.3.27
-langchain-core==0.3.74
-langchain-community==0.3.27
-langchain-text-splitters==0.3.9
-langchain-chroma==0.2.5
-langchain-mistralai==0.2.11
+# ==========================
+# Vector Database
+# ==========================
+chromadb
 
-chromadb==1.0.15
-mistralai==1.8.2
+# ==========================
+# Embedding Models
+# ==========================
+sentence-transformers
 
-pypdf==6.0.0
+# ==========================
+# OpenAI
+# ==========================
+openai
 
-protobuf==5.29.5
+# ==========================
+# Mistral AI
+# ==========================
+mistralai
+
+# ==========================
+# Environment Variables
+# ==========================
+python-dotenv
+
+# ==========================
+# Token Counting
+# ==========================
+tiktoken
+
+# ==========================
+# Document Loaders
+# ==========================
+pypdf
+pymupdf
+python-docx
+unstructured
+markdown
+beautifulsoup4
+lxml
+
+# ==========================
+# OCR (Optional)
+# ==========================
+pytesseract
+Pillow
+
+# ==========================
+# Web Scraping
+# ==========================
+requests
+
+# ==========================
+# FastAPI (API)
+# ==========================
+fastapi
+uvicorn
+
+# ==========================
+# Streamlit (Frontend)
+# ==========================
+streamlit
+
+# ==========================
+# Utilities
+# ==========================
+numpy
+pandas
+
+# ==========================
+# Logging & Progress
+# ==========================
+tqdm
+
+# ==========================
+# Optional Monitoring
+# ==========================
+langsmith
