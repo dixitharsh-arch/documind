@@ -1,0 +1,33 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Chroma Database
+chroma_db/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Streamlit Cache
+.streamlit/
+
+# Logs
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Build Files
+build/
+dist/
+*.egg-info/
